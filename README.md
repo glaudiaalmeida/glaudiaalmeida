@@ -8,8 +8,3 @@
 - 👯  Crio roteiros com passo a passo - Manuais.
 - 📫  Contate-me pelo e-mail: glaudiaalmeida@gmail.com
 - 😄  Ela/Dela
-
-<div>
-  <a href="https://github.com/glaudiaalmeida">
-    <img height="180cm" src=https://github-readme-stats.vercel.app/api/top-langs/?username=glaudiaalmeida&layout=compact&langs_count=16&theme=dark"/>
-</div>
