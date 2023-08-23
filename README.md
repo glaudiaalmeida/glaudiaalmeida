@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋 Olá!!! Eu sou a Gláudia Almeida 👋
 
-<!--
-**glaudiaalmeida/glaudiaalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭  Sou instrutora de tecnologia básica
+          transmitindo conhecimentos para uso de softwares e hardwares conforme necessidade e ou interesse de cada cliente.
+- 🌱  Estou com forte foco nos estudos ... Me reinventando dentro da área de tecnologia, mas aprendendo programação com foco em
+         BackEnd e Analise de Dados.
+- 👯  Crio roteiros com passo a passo - Manuais.
+- 📫  Contate-me pelo e-mail: glaudiaalmeida@gmail.com
+- 😄  Ela/Dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/glaudiaalmeida">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=glaudiaalmeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180cm" src=https://github-readme-stats.vercel.app/api/top-langs/?username=glaudiaalmeida&layout=compact&langs_count=16&theme=dark"/>
+</div>
