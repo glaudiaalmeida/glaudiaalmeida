@@ -15,6 +15,7 @@
 📚 Lendo: As 5 linguagens do Amor - Gary Chapman;
 
 Eu já trabalhei com... 🔧
+
 💻 Suporte tecnico
 💻 Aulas de informatica basica
 💻 Antigos CPD`s - Mainframes
