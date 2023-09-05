@@ -1,5 +1,5 @@
-### 👋 Olá!!! Eu sou a Gláudia Almeida 👋
-# Sobre Mim
+## 👋 Olá!!! Eu sou a Gláudia Almeida 👋
+### Sobre Mim
 
 💻 Eu sou um desenvolvedor Back-End e instrutora de tecnologia básica - softwares e hardwares conforme necessidade e ou interesse de cada cliente;
 
@@ -12,17 +12,32 @@
 
 ✒️ Eu gosto de no meu tempo livre viajar com meu marido conhecendo novas culturas, lugares e gastronomias;
 
-📚 Lendo: As 5 linguagens do Amor - Gary Chapman;
+📚 Lendo: As 5 linguagens do Amor - Gary Chapman.
 
-Eu já trabalhei com... 🔧
 
-💻 Suporte tecnico
-💻 Aulas de informatica basica
-💻 Antigos CPD`s - Mainframes
+### 🔧 Já trabalhei com 🔧
 
-🤓 HTML5 CSS3 JavaScript React NodeJS TypeScript Postgres Git GitHub Figma VS Code
-🤓 Eu estou estudando... 🧩
-🤓 React NodeJS Vue.js Java Next JS
+💻 CPD's - seguradora e bancos (Banco Meridional | Banco Cacique | Novo Hamburgo Cia. de Seguros)
+
+💻 Antigos CPD`s - Mainframes (PROCERGS - UFRGS)
+
+💻 Análise de crédito pessoal e comercio (Losango Financeira)
+
+💻 Departamento financeiro e administrativo com foco no secretariado (Sigma Conputação - PROJURIS)
+
+💻 Suporte técnico e atendimento ao cliente (Empreendedor)
+
+💻 Aulas de informática básica (Empreendedor)
+
+
+### 🧩 Estou estudando atualmente 🧩
+
+🤓 Inglês;
+
+🤓 HTML5 CSS3 JavaScript React NodeJS TypeScript Postgres Git GitHub Figma VS Code;
+
+🤓 React NodeJS Vue.js Java Next JS;
+
 🤓 Cursos realizados 🤓
 
 DDS Cubos Academy DBE Cubos Academy
