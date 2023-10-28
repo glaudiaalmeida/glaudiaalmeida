@@ -34,9 +34,13 @@
 
 🤓 Inglês;
 
-🤓 HTML5 CSS3 JavaScript React NodeJS TypeScript Postgres Git GitHub Figma VS Code;
+🤓 HTML5 CSS3 JavaScript React NodeJS TypeScript Postgres Git GitHub;
 
 🤓 React NodeJS Vue.js Java Next JS;
+
+🤓 Analista de dados - CISCO Academy - https://www.credly.com/badges/a398ed30-d776-4c72-bd2e-20e310ed26d0/public_url;
+
+🤓 Analista de Dados - Google - Coursera ;
 
 🤓 Cursos realizados 🤓
 
