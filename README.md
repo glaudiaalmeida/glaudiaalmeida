@@ -35,19 +35,20 @@
 
 ### 🧩 Estou estudando atualmente 🧩
 
-🤓 Inglês;
+  🤓 Inglês;
 
-🤓 React NodeJS Vue.js Java Next JS;
+  🤓 React NodeJS Vue.js Java Next JS;
 
-🤓 Analista de Dados - Google - Coursera ;
+  🤓 Analista de Dados - Google - Coursera ;
 
 🤓 Cursos Concluídos 🤓
 
-🎓 Desenvolvimento de Software com Foco em Back-End @ Cubos Academy - Aulas síncronas/assíncronas/Simulação de Projetos em Trabalhos Reais -  06/2023 até 10/2023;
+🎓 Desenvolvimento de Software com Foco em Back-End @ Cubos Academy - Aulas síncronas/assíncronas/Simulação de Projetos em Trabalhos Reais
+   Período: 06/2023 até 10/2023;
 
 🎓 Introdução a Análise de Dados - Cisco Academy.
 
-**Tecnologias e Ferramentas**
+### **Tecnologias e Ferramentas**
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
@@ -66,7 +67,7 @@
 
 <!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
 
-### Eu estou estudando... 🧩
+### 🧩
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
