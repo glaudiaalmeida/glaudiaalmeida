@@ -5,7 +5,10 @@
 
 🌱  Estou com forte foco nos estudos ... Me reinventando dentro da área de tecnologia;
 
-🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End @ Cubos Academy;
+🎓 # Estou estudando:
+
+🎓 Desenvolvimento de Software com Foco em Front End - @Proz Educação;
+
 🎓 E estudo Analise de Dados @  Coursera | Parceria Google + CIEE;
 
 🔎 Também sou curiosa na costura criativa e em sabonetes artesanais;
@@ -34,15 +37,15 @@
 
 🤓 Inglês;
 
-🤓 HTML5 CSS3 JavaScript React NodeJS TypeScript Postgres Git GitHub;
-
 🤓 React NodeJS Vue.js Java Next JS;
-
-🤓 Analista de dados - CISCO Academy - https://www.credly.com/badges/a398ed30-d776-4c72-bd2e-20e310ed26d0/public_url;
 
 🤓 Analista de Dados - Google - Coursera ;
 
-🤓 Cursos realizados 🤓
+🤓 Cursos Concluídos 🤓
+
+🎓 Desenvolvimento de Software com Foco em Back-End @ Cubos Academy - Aulas síncronas/assíncronas/Simulação de Projetos em Trabalhos Reais -  06/2023 até 10/2023;
+
+🎓 Introdução a Análise de Dados - Cisco Academy.
 
 **Tecnologias e Ferramentas**
 
