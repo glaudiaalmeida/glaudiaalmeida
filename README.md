@@ -5,7 +5,7 @@
 
 🌱  Estou com forte foco nos estudos ... Me reinventando dentro da área de tecnologia;
 
-🎓 # Estou estudando:
+# 🎓 Estou estudando 🎓 :
 
 🎓 Desenvolvimento de Software com Foco em Front End - @Proz Educação;
 
