@@ -1,52 +1,41 @@
-## 👋 Olá!!! Eu sou a Gláudia Almeida 👋
-### Sobre Mim
+## 👋 Olá!!! Eu sou a Gláudia Almeida Perillo 👋
 
-💻 Eu sou um desenvolvedor Back-End e instrutora de tecnologia básica - softwares e hardwares conforme necessidade e ou interesse de cada cliente;
+  💻 Eu sou um desenvolvedor Back-End e instrutor de tecnologia básica - softwares e hardwares conforme necessidade e ou interesse de cada cliente;
 
-🌱  Estou com forte foco nos estudos ... Me reinventando dentro da área de tecnologia;
+  🌱  Estou com forte foco nos estudos ... Me reinventando dentro da área de tecnologia;
 
-### 🎓 Estou estudando 🎓
+### 🎓 🧩 Estou estudando atualmente 🧩 🎓
 
-🎓 Desenvolvimento de Software com Foco em Front End - @Proz Educação;
+  🎓 Desenvolvimento de Software com Foco em Front End - @Proz Educação;
 
-🎓 E estudo Analise de Dados @  Coursera | Parceria Google + CIEE;
+  🎓 Analise de Dados @  Coursera | Parceria Google + CIEE;
 
-🔎 Também sou curiosa na costura criativa e em sabonetes artesanais;
+  🎓 Inglês;
 
-✒️ Eu gosto de no meu tempo livre viajar com meu marido conhecendo novas culturas, lugares e gastronomias;
-
-📚 Lendo: As 5 linguagens do Amor - Gary Chapman.
+  🎓 React NodeJS Vue.js Java Next JS;
 
 
 ### 🔧 Já trabalhei com 🔧
 
-💻 CPD's - seguradora e bancos (Banco Meridional | Banco Cacique | Novo Hamburgo Cia. de Seguros)
+  💻 CPD's - seguradora e bancos (Banco Meridional | Banco Cacique | Novo Hamburgo Cia. de Seguros)
 
-💻 Antigos CPD`s - Mainframes (PROCERGS - UFRGS)
+  💻 Antigos CPD`s - Mainframes (PROCERGS - UFRGS)
 
-💻 Análise de crédito pessoal e comercio (Losango Financeira)
+  💻 Análise de crédito pessoal e comercio (Losango Financeira)
 
-💻 Departamento financeiro e administrativo com foco no secretariado (Sigma Conputação - PROJURIS)
+  💻 Departamento financeiro e administrativo com foco no secretariado (Sigma Conputação - PROJURIS)
 
-💻 Suporte técnico e atendimento ao cliente (Empreendedor)
+  💻 Suporte técnico e atendimento ao cliente (Empreendedor)
 
-💻 Aulas de informática básica (Empreendedor)
+  💻 Aulas de informática básica (Empreendedor)
 
 
-### 🧩 Estou estudando atualmente 🧩
+### 🤓 Cursos Concluídos 🤓
 
-  🤓 Inglês;
-
-  🤓 React NodeJS Vue.js Java Next JS;
-
-  🤓 Analista de Dados - Google - Coursera ;
-
-🤓 Cursos Concluídos 🤓
-
-🎓 Desenvolvimento de Software com Foco em Back-End @ Cubos Academy - Aulas síncronas/assíncronas/Simulação de Projetos em Trabalhos Reais
+  🎓 Desenvolvimento de Software com Foco em Back-End @ Cubos Academy - Aulas síncronas/assíncronas/Simulação de Projetos em Trabalhos Reais
    Período: 06/2023 até 10/2023;
 
-🎓 Introdução a Análise de Dados - Cisco Academy.
+  🎓 Introdução a Análise de Dados - Cisco Academy.
 
 ### **Tecnologias e Ferramentas**
 
@@ -67,11 +56,9 @@
 
 <!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
 
-### 🧩
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
+<!--![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -->
+<!--![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) -->
 
 <!--![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)-->
 <!--![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)-->
@@ -99,7 +86,13 @@ https://www.credly.com/badges/a398ed30-d776-4c72-bd2e-20e310ed26d0/public_url
 </div>
 <!--colocar de novo dentro da div se for usar<a href="https://www.twitch.tv/glaudiaalmeida" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
 
+### ### 🧩 Curiosidades sobre mim 🧩
 
+🔎 Também sou curiosa na costura criativa e em sabonetes artesanais;
+
+✒️ Eu gosto de no meu tempo livre viajar com meu marido conhecendo novas culturas, lugares e gastronomias;
+
+📚 Lendo: As 5 linguagens do Amor - Gary Chapman.
 
 😄 Ela/Dela 😄
 
