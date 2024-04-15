@@ -9,7 +9,7 @@
 
 ### 🎓 🧩 Estou estudando atualmente 🧩 🎓
 
-  🎓 Desenvolvimento de Software com Foco em Front End - @Proz Educação;
+  🎓 Desenvolvimento de Software Full Stack - Grupo Boticário - Alura;
 
   🎓 Analise de Dados @  Coursera | Parceria Google + CIEE;
 
@@ -31,7 +31,7 @@
 
   💻 Suporte técnico e atendimento ao cliente (Empreendedor)
 
-  💻 Aulas de informática básica (Empreendedor)
+  💻 Aulas de Tecnologia (Empreendedor)
 
 
 ### 🤓 Cursos Concluídos 🤓
@@ -39,7 +39,9 @@
   🎓 Desenvolvimento de Software com Foco em Back-End @ Cubos Academy - Aulas síncronas/assíncronas/Simulação de Projetos em Trabalhos Reais
    Período: 06/2023 até 10/2023;
 
-  🎓 Introdução a Análise de Dados - Cisco Academy.
+  🎓 Introdução a Análise de Dados - Cisco Academy;
+
+  🎓 Desenvolvimento de Software com Foco em Front End - AWS cloud - Linux - @Proz Educação;
 
 ### **Tecnologias e Ferramentas**
 
