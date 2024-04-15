@@ -11,11 +11,13 @@
 
   🎓 Desenvolvimento de Software Full Stack - Grupo Boticário - Alura;
 
+  🎓 Desenvolvimento de Software Front End - Oracle One - Alura;
+
   🎓 Analise de Dados @  Coursera | Parceria Google + CIEE;
 
   🎓 Inglês;
 
-  🎓 React NodeJS Vue.js Java Next JS;
+  🎓 React NodeJS;
 
 
 
@@ -41,7 +43,7 @@
 
   🎓 Introdução a Análise de Dados - Cisco Academy;
 
-  🎓 Desenvolvimento de Software com Foco em Front End - AWS cloud - Linux - @Proz Educação;
+  🎓 Desenvolvimento de Software com Foco em Front End - AWS cloud - Linux - @Proz Educação - Período: 10/2023 - 04/2024;
 
 ### **Tecnologias e Ferramentas**
 
@@ -88,13 +90,13 @@
 
   ✒️ No meu tempo livre passear e viajar com meu marido conhecendo novas culturas, lugares e gastronomias;
 
-  📚 Lendo: As 5 linguagens do Amor - Gary Chapman entre diversos conteúdos técnicos.
+  📚 Lendo: As 5 linguagens do Amor - Gary Chapman - entre outros diversos conteúdos técnicos.
 
 😄 Ela/Dela 😄
 
-### Entre em contato comigo! 📭
+### Contato 📭
 <div>
-<a href="https://www.youtube.com/glaudiaalmeida" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<
 <a href="https://www.linkedin.com/in/sglaudiaalmeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
