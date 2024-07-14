@@ -74,7 +74,7 @@ Estou sempre buscando aprimoramento e atualização por meio de estudos constant
 
 ### Contato 📭
 <div>
-e-mail => glaudiaalmeida@gmail.com;
+<a href="mailto:glaudiaalmeida@gmail.com" target="_blank">
   
 <a href="https://www.linkedin.com/in/glaudiaalmeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
