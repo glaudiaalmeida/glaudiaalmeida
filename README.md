@@ -7,13 +7,17 @@
   
 ### 🎓 🧩 Estudando 🧩 🎓
 
-  🎓 Desenvolvimento de Software Full Stack - Grupo Boticário - Alura;
-
-  🎓 Desenvolvimento de Software Front End - Oracle One - Alura;
+  🎓 Mover Hello 2024 - EF English Live;
   
-  🎓 Análise e Desenvolvimento de Sistemas - FASUL Educacional.
+  🎓 Desenvolvedor(a) Full Stack - Escola VNW;
+  
+  🎓 Extensão em Cloud - AWS / Extensão em FrontEnd - Proz Educação;
 
- 
+  🎓 Análise e Desenvolvimento de Sistemas - FASUL Educacional;
+
+  🎓 UFRGS - Licenciatura em Computação e Robótica - Devido a enchente no RS inicio será em 02/2025.
+
+  
 ### 🔧 Histórico Profissional🔧
 
 Tenho uma trajetória sólida em tecnologia, desde 1986, com experiência em grandes CPD's em diferentes modelos de negócios (seguradoras, bancos, financeiras e empresas de desenvolvimento de software). Neste período, trabalhei com diferentes sistemas MVS IBM, VSE, Unix. 
@@ -31,13 +35,15 @@ Estou sempre buscando aprimoramento e atualização por meio de estudos constant
 
 ### 🤓 Cursos Concluídos - 2023/2024🤓
 
-  🎓 Desenvolvimento de Software com Foco em Back-End @ Cubos Academy - Aulas síncronas/assíncronas/Simulação de Projetos;
+  🎓 Desenvolvedor BackEnd - Cubos Academy;
 
   🎓 Introdução a Análise de Dados - Cisco Academy;
 
-  🎓 Desenvolvimento de Software com Foco em Front End - AWS cloud - Proz Educação - Período: 10/2023 - 04/2024;
+  🎓 Introdução Desenvolvimento FrontEnd - Proz Educação;
 
-   🎓 Analise de Dados - Coursera | Parceria Google.
+  🎓 Analise de Dados - Coursera | Google;
+
+  🎓 Desenvovedor Full Stack - JavaScript - Desenvolve 2024 - Grupo Boticário.
 
 
 ### **Tecnologias e Ferramentas**
