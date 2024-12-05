@@ -6,6 +6,7 @@
 
   
 ### 🎓 🧩 Estudando 🧩 🎓
+  🎓 Inteligência Artificial - Bootcamp 50+ - www.elumini-it.com;
 
   🎓 Mover Hello 2024 - EF English Live;
   
