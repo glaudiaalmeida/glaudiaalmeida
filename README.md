@@ -21,17 +21,12 @@
   
 ### 🔧 Histórico Profissional🔧
 
-Tenho uma trajetória sólida em tecnologia, desde 1986, com experiência em grandes CPD's em diferentes modelos de negócios (seguradoras, bancos, financeiras e empresas de desenvolvimento de software). Neste período, trabalhei com diferentes sistemas MVS IBM, VSE, Unix. 
-
-**Minha paixão pela tecnologia e pela satisfação do cliente sempre foi um guia em minha carreira.** 
-
-Em 2003, decidi empreender e me perguntei: "O que eu gosto de fazer?" - Trabalhar com máquinas. 
-E como posso transformar isso em uma fonte de renda?" Naquela época, já com sistemas operacionais com interface gráfica, computadores e internet estavam se popularizando nas residências, mas muitos ainda os viam apenas como máquinas de escrever aprimoradas. Vi uma oportunidade de compartilhar meu conhecimento e mostrar como a tecnologia pode facilitar nosso dia a dia, tanto no âmbito pessoal quanto profissional, e até proporcionar lazer. Não importava qual SO ou aplicação eu ensinaria.
-Nos últimos 21 anos, dediquei-me a ensinar como a tecnologia pode ser uma aliada em diversas tarefas cotidianas. 
-
-Estou sempre buscando aprimoramento e atualização por meio de estudos constantes.
-
- Atualmente, estou em transição para o desenvolvimento de software, participando de vários bootcamps desde abril de 2023 e iniciando um novo curso superior, com o objetivo de aplicar meus conhecimentos em novos desafios.
+Atuo na área de tecnologia desde 1986, acumulando experiências em diferentes segmentos, CPD do estado do RS (PROCERGS), Meridional Informática, Losango Administradora de Cartões de Crédito, Banco Cacique, Novo Hamburgo Companhia de Seguros, Sigma Computação (PROJURIS) e no setor varejista. Ao longo dessa trajetória, tive contato com diversos sistemas peracionais,
+iniciando pelo VS2-MVS, MS-DOS, Unix, Windows (desde sua primeira versão), macOS, iOS, Linux e Android.
+A combinação da minha paixão por tecnologia e satisfação do cliente me guiou nessa jornada, e hoje compartilho esse conhecimento para mostrar como a tecnologia pode facilitar a vida no âmbito pessoal e profissional. Nos últimos 21 anos, dediquei-me a ensinar, destacando o papel da tecnologia como uma aliada versátil. Também atuei como voluntária, ensinando tecnologia básica para pessoas em recuperação de dependência química e álcool no projeto de reinserção social da PACTO POA.
+Em abril de 2023, iniciei uma nova fase de desenvolvimento profissional, participando de bootcamps focados em desenvolvimento de software, análise de dados, cibersegurança e inteligência artificial, áreas que se complementam e cuja compreensão considero essencial para uma atuação adequada na tecnologia.
+Além disso, iniciei duas graduações para ampliar e aplicar meus conhecimentos em novos desafios, com uma base sólida e multidisciplinar.
+Além da carreira, tenho um compromisso com o bem-estar, praticando musculação diariamente e cultivando hobbies como cuidar de plantas e costura criativa, atividades que estimulam minha criatividade e atenção aos detalhes. E adoro assistir séries policiais e de ficção científica.
 
 
 ### 🤓 Cursos Concluídos - 2023/2024🤓
