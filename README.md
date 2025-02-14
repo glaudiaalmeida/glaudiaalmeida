@@ -1,33 +1,29 @@
 
 ## 👋 Olá!!! Eu sou a Gláudia Almeida 👋
 
+  💻 Mulheres em Tech | Desenvolvedor Junior | Full Stack | Javascript | Assessoria e Consultoria em TI
 
-  💻 Assessoria e Consultoria em TI - transitando - Desenvolvedor FullStack JavaScript / nodeJS
+  ### 🎓 🧩 Estudando 🧩 🎓
 
-  
-### 🎓 🧩 Estudando 🧩 🎓
   🎓 Inteligência Artificial - Bootcamp 50+ - www.elumini-it.com;
 
   🎓 Mover Hello 2024 - EF English Live;
   
   🎓 Desenvolvedor(a) Full Stack - Escola VNW;
   
-  🎓 Extensão em Cloud - AWS / Extensão em FrontEnd - Proz Educação;
+  🎓 Análise e Desenvolvimento de Sistemas - FASUL Educacional - Conclusão em 12/2026;
 
-  🎓 Análise e Desenvolvimento de Sistemas - FASUL Educacional;
-
-  🎓 UFRGS - Licenciatura em Computação e Robótica - Devido a enchente no RS inicio será em 02/2025.
+  🎓 UFRGS - Licenciatura em Computação e Robótica - Conclusão em 12/2028.
 
   
 ### 🔧 Histórico Profissional🔧
 
-Atuo na área de tecnologia desde 1986, acumulando experiências em diferentes segmentos, CPD do estado do RS (PROCERGS), Meridional Informática, Losango Administradora de Cartões de Crédito, Banco Cacique, Novo Hamburgo Companhia de Seguros, Sigma Computação (PROJURIS) e no setor varejista. Ao longo dessa trajetória, tive contato com diversos sistemas peracionais,
-iniciando pelo VS2-MVS, MS-DOS, Unix, Windows (desde sua primeira versão), macOS, iOS, Linux e Android.
-A combinação da minha paixão por tecnologia e satisfação do cliente me guiou nessa jornada, e hoje compartilho esse conhecimento para mostrar como a tecnologia pode facilitar a vida no âmbito pessoal e profissional. Nos últimos 21 anos, dediquei-me a ensinar, destacando o papel da tecnologia como uma aliada versátil. Também atuei como voluntária, ensinando tecnologia básica para pessoas em recuperação de dependência química e álcool no projeto de reinserção social da PACTO POA.
-Em abril de 2023, iniciei uma nova fase de desenvolvimento profissional, participando de bootcamps focados em desenvolvimento de software, análise de dados, cibersegurança e inteligência artificial, áreas que se complementam e cuja compreensão considero essencial para uma atuação adequada na tecnologia.
-Além disso, iniciei duas graduações para ampliar e aplicar meus conhecimentos em novos desafios, com uma base sólida e multidisciplinar.
-Além da carreira, tenho um compromisso com o bem-estar, praticando musculação diariamente e cultivando hobbies como cuidar de plantas e costura criativa, atividades que estimulam minha criatividade e atenção aos detalhes. E adoro assistir séries policiais e de ficção científica.
-
+Sou 50+ e desde meu primeiro estágio estou envolvida com a tecnologia, acumulando experiências em diferentes segmentos, como, PROCERGS, Meridional Informática, Losango Adm., Banco Cacique, Novo Hamburgo Cia de Seguros, Sigma – PROJURIS e no setor varejista. Ao longo dessa trajetória, tive contato com diversos sistemas operacionais, iniciando pelo VS2-MVS, MS-DOS, Unix, Windows (desde sua primeira versão), macOS, iOS, Linux e Android.
+Nos últimos 22 venho promovendo inclusão digital e capacitando centenas de pessoas no uso de ferramentas tecnológicas, compartilhando meu conhecimento para mostrar como a tecnologia pode facilitar a vida no âmbito pessoal e profissional.
+Também durante esse período, atuei diretamente na prospecção e venda dos meus serviços, desenvolvendo estratégias eficazes de marketing e comunicação para conectar minha expertise a diferentes públicos. Nesse período Também atuei como instrutora voluntária, ensinando tecnologia básica para pessoas em recuperação de dependência química no projeto de reinserção social da PACTO POA Ong Recuperação de Dependentes Químicos.
+A partir 2023, venho adquirindo novos conhecimentos em desenvolvimento de software, inteligência artificial e análise de dados. Tenho participado de bootcamps intensivos que abrangem tecnologias como HTML, CSS, JavaScript, React, bem como fundamentos em Python, Inteligência Artificial e análise de dados. Esses programas me permitiram desenvolver projetos práticos, fortalecer habilidades técnicas e explorar o potencial da tecnologia para criar soluções inovadoras. Além disso,
+iniciei uma graduação em Análise e Desenvolvimento de Sistemas para ampliar e aplicar meus conhecimentos em novos desafios, com uma base sólida e multidisciplinar. 
+Além da carreira, tenho um compromisso com o bem-estar, praticando musculação diariamente e cultivando hobbies como cuidar de plantas e curtir praias, atividades que estimulam minha criatividade e atenção aos detalhes. E adoro assistir séries policiais e de ficção científica.
 
 ### 🤓 Cursos Concluídos - 2023/2024🤓
 
@@ -39,7 +35,9 @@ Além da carreira, tenho um compromisso com o bem-estar, praticando musculação
 
   🎓 Analise de Dados - Coursera | Google;
 
-  🎓 Desenvovedor Full Stack - JavaScript - Desenvolve 2024 - Grupo Boticário.
+  🎓 Desenvovedor Full Stack - JavaScript - Desenvolve 2024 - Grupo Boticário;
+
+   🎓 Extensão em Cloud - AWS | FrontEnd | BootStrap | API | React | TypeScript | JavaScript - Proz Educação.
 
 
 ### **Tecnologias e Ferramentas**
@@ -68,16 +66,14 @@ Além da carreira, tenho um compromisso com o bem-estar, praticando musculação
   
 ### 🧩 Sobre mim 🧩
 
-  🔎 Além de meu interesse profissional, gosto, como hobbie, de cuidar de plantas e me aventuro na costura criativa, atividades que complementam minha visão criativa e detalhista.
+  🔎 Além de meu interesse profissional, gosto, como hobbie, de cuidar de plantas e me aventuro em atividades que complementam minha visão criativa e detalhista.
 
-  
 😄 Ela/Dela 😄
 
 ### Contato 📭
 <div>
 <a href="mailto:glaudiaalmeida@gmail.com" target="_blank">
-  
+<a href="https://github.com/glaudiaalmeida" target="_blank">
 <a href="https://www.linkedin.com/in/glaudiaalmeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
 </div>
 
