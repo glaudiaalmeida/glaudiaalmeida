@@ -1,15 +1,12 @@
 
-## 👋 Olá!!! Eu sou a Gláudia Almeida 👋
+## 👋 Olá!!! Eu sou a Gláudia Almeida Perillo👋
 
   💻 Mulheres em Tech | Desenvolvedor Junior | Full Stack | Javascript | Assessoria e Consultoria em TI
 
   ### 🎓 🧩 Estudando 🧩 🎓
 
-  🎓 Inteligência Artificial - Bootcamp 50+ - www.elumini-it.com;
-
-  🎓 Mover Hello 2024 - EF English Live;
   
-  🎓 Desenvolvedor(a) Full Stack - Escola VNW;
+  🎓 Mover Hello 2024 - EF English Live;
   
   🎓 Análise e Desenvolvimento de Sistemas - FASUL Educacional - Conclusão em 12/2026;
 
@@ -37,8 +34,12 @@ Além da carreira, tenho um compromisso com o bem-estar, praticando musculação
 
   🎓 Desenvovedor Full Stack - JavaScript - Desenvolve 2024 - Grupo Boticário;
 
-   🎓 Extensão em Cloud - AWS | FrontEnd | BootStrap | API | React | TypeScript | JavaScript - Proz Educação.
+  🎓 Extensão em Cloud - AWS | FrontEnd | BootStrap | API | React | TypeScript | JavaScript - Proz Educação;
+   
+  🎓 Inteligência Artificial - Bootcamp 50+ - www.elumini-it.com;
 
+  🎓 Desenvolvedor(a) Full Stack - Escola VNW.
+  
 
 ### **Tecnologias e Ferramentas**
 
