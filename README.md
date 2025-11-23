@@ -1,5 +1,5 @@
 
-## 👋 Olá!!! Eu sou a Gláudia Almeida Perillo👋
+## 👋 Olá!!! Eu sou a Gláudia Almeida 👋
 
   💻 Mulheres em Tech | Desenvolvedor Junior | Full Stack | Javascript | Assessoria e Consultoria em TI
 
