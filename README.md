@@ -6,9 +6,7 @@
   ### 🎓 🧩 Estudando 🧩 🎓
 
   
-  🎓 Mover Hello 2024 - EF English Live;
-  
-  🎓 Análise e Desenvolvimento de Sistemas - FASUL Educacional - Conclusão em 12/2026;
+  🎓 Instituto Eldorado - Residência FullStack 5.0;
 
   🎓 UFRGS - Licenciatura em Computação e Robótica - Conclusão em 12/2028.
 
@@ -22,7 +20,7 @@ A partir 2023, venho adquirindo novos conhecimentos em desenvolvimento de softwa
 iniciei uma graduação em Análise e Desenvolvimento de Sistemas para ampliar e aplicar meus conhecimentos em novos desafios, com uma base sólida e multidisciplinar. 
 Além da carreira, tenho um compromisso com o bem-estar, praticando musculação diariamente e cultivando hobbies como cuidar de plantas e curtir praias, atividades que estimulam minha criatividade e atenção aos detalhes. E adoro assistir séries policiais e de ficção científica.
 
-### 🤓 Cursos Concluídos - 2023/2024🤓
+### 🤓 Cursos Concluídos - 2023/2026🤓
 
   🎓 Desenvolvedor BackEnd - Cubos Academy;
 
@@ -67,7 +65,7 @@ Além da carreira, tenho um compromisso com o bem-estar, praticando musculação
   
 ### 🧩 Sobre mim 🧩
 
-  🔎 Além de meu interesse profissional, gosto, como hobbie, de cuidar de plantas e me aventuro em atividades que complementam minha visão criativa e detalhista.
+  🔎 Além de meu interesse profissional, gosto, como hobbie  dirigir, cuidar de plantas e me aventuro em atividades que complementam minha visão criativa e detalhista.
 
 😄 Ela/Dela 😄
 
